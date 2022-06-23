@@ -1,0 +1,14 @@
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\bin\Debug\netcoreapp3.1\AppConsoleCalculos.exe
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\bin\Debug\netcoreapp3.1\AppConsoleCalculos.deps.json
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\bin\Debug\netcoreapp3.1\AppConsoleCalculos.runtimeconfig.json
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\bin\Debug\netcoreapp3.1\AppConsoleCalculos.runtimeconfig.dev.json
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\bin\Debug\netcoreapp3.1\AppConsoleCalculos.dll
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\bin\Debug\netcoreapp3.1\AppConsoleCalculos.pdb
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.AssemblyInfoInputs.cache
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.AssemblyInfo.cs
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.csproj.CoreCompileInputs.cache
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.dll
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.pdb
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.genruntimeconfig.cache
+D:\Relinton Sistemas\WebAppTDD\AppConsoleCalculos\obj\Debug\netcoreapp3.1\AppConsoleCalculos.csproj.AssemblyReference.cache
